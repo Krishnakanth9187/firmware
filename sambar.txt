@@ -4,3 +4,4 @@ veggies
 curry leaves
 water 
 salt
+pressure cooker
